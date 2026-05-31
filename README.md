@@ -26,16 +26,16 @@ This repository contains the laboratory work developed as part of the course "Ap
 
 | # | Title | Link |
 |---|-------|------|
-| 1 | Laboratory Work No. 1 – Project Plan | [View](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961%20%D0%9F%D0%98%D0%A1.docx) |
-| 2 | Laboratory Work No. 2 – Hardware Analysis | [View](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%962%20%D0%9F%D0%98%D0%A1.docx) |
-| 3 | Laboratory Work No. 3 – Navigation Design | [View](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%963%20%D0%9F%D0%98%D0%A1.docx) |
-| 4 | Laboratory Work No. 4 – Implementation | [View](https://github.com/Jewgien/Dev-of-the-robot-Keenon/blob/main/Laboratory%20work%20%E2%84%964%20PIS.docx) |
+| 1 | Laboratory Work No. 1 – Project Plan | [Lab1](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961%20%D0%9F%D0%98%D0%A1.docx) |
+| 2 | Laboratory Work No. 2 – Hardware Analysis | [Lab2](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%962%20%D0%9F%D0%98%D0%A1.docx) |
+| 3 | Laboratory Work No. 3 – Navigation Design | [Lab3](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%963%20%D0%9F%D0%98%D0%A1.docx) |
+| 4 | Laboratory Work No. 4 – Implementation | [Lab4](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%964%20%20%D0%9F%D0%98%D0%A1.docx) |
 
 ---
 
 ## Contents
 
-### [Laboratory Work No. 1 – Project Plan](https://github.com/Jewgien/Dev-of-the-robot-Keenon/blob/main/Laboratory%20work%20%E2%84%961%20PIS.docx)
+### [Laboratory Work No. 1 – Project Plan](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961%20%D0%9F%D0%98%D0%A1.docx)
 
 **Topic:** Project Plan: Software Development for Autonomous Water Body Scanning Using the Apache4 Robotic Boat
 
@@ -48,7 +48,7 @@ This repository contains the laboratory work developed as part of the course "Ap
 
 ---
 
-### [Laboratory Work No. 2 – Hardware Analysis](https://github.com/Jewgien/Dev-of-the-robot-Keenon/blob/main/Laboratory%20work%20%E2%84%962%20PIS.docx)
+### [Laboratory Work No. 2 – Hardware Analysis](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%962%20%D0%9F%D0%98%D0%A1.docx)
 
 **Topic:** Development of Software for Autonomous Water Body Scanning Using the Apache4 Robotic Boat
 
@@ -63,7 +63,7 @@ This repository contains the laboratory work developed as part of the course "Ap
 
 ---
 
-### [Laboratory Work No. 3 – Navigation Design](https://github.com/Jewgien/Dev-of-the-robot-Keenon/blob/main/Laboratory%20work%20%E2%84%963%20PIS.docx)
+### [Laboratory Work No. 3 – Navigation Design](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%963%20%D0%9F%D0%98%D0%A1.docx)
 
 **Topic:** Design of Autonomous Navigation Parameters and Water Body Scanning Route Maps
 
@@ -77,7 +77,7 @@ This repository contains the laboratory work developed as part of the course "Ap
 
 ---
 
-### [Laboratory Work No. 4 – Implementation](https://github.com/Jewgien/Dev-of-the-robot-Keenon/blob/main/Laboratory%20work%20%E2%84%964%20PIS.docx)
+### [Laboratory Work No. 4 – Implementation](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%964%20%20%D0%9F%D0%98%D0%A1.docx)
 
 **Topic:** Implementation of Practical Autonomous Operation Modes of the Apache4 Robotic Boat
 
