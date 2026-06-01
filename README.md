@@ -1,147 +1,146 @@
-# Laboratory Works on "Applied Intelligent Systems"
+# Лабораторные работы по дисциплине «Прикладные интеллектуальные системы»
 
-## Project: Development of Software for Autonomous Water Body Scanning Using the Apache4 Robotic Boat
+## Проект: Разработка программного обеспечения для автономного сканирования водоёмов с помощью роботизированного катера Apache4
 
-**Educational Institution:**  
-Brest State Technical University  
-Department of Intelligent Information Technologies  
+**Учреждение образования:**  
+Брестский государственный технический университет  
+Кафедра интеллектуальных информационных технологий  
 
-**Students:**  
-- Petrushchik D. A.  
-- Turich D. A.  
+**Студенты:**  
+- Петручик Д. А.  
+- Турич Д. А.  
 
-**Group:** II-26  
+**Группа:** ИИ-26  
 
-**Supervisor:** Savchuk Yu. N.  
-
----
-
-## Overview
-
-This repository contains the laboratory work developed as part of the course "Applied Intelligent Systems." The project focuses on creating software for autonomous water body scanning using the Apache4 robotic boat.
-
-The development process is divided into four laboratory works, each covering a specific stage of software development for autonomous navigation, water area surveying, data collection, and result visualization.
+**Проверил:**  
+  Касьяник В.В.
 
 ---
 
-## Laboratory Works
+## Обзор
 
-| # | Title | Link |
-|---|-------|------|
-| 1 | Laboratory Work No. 1 – Project Plan | [Lab1](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961%20%D0%9F%D0%98%D0%A1.docx) |
-| 2 | Laboratory Work No. 2 – Hardware Analysis | [Lab2](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%962%20%D0%9F%D0%98%D0%A1.docx) |
-| 3 | Laboratory Work No. 3 – Navigation Design | [Lab3](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%963%20%D0%9F%D0%98%D0%A1.docx) |
-| 4 | Laboratory Work No. 4 – Implementation | [Lab4](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%964%20%20%D0%9F%D0%98%D0%A1.docx) |
+Данный репозиторий содержит лабораторные работы, выполненные в рамках курса «Прикладные интеллектуальные системы». Проект посвящён созданию программного обеспечения для автономного сканирования водоёмов с использованием роботизированного катера Apache4.
+
+Процесс разработки разделён на четыре лабораторные работы, каждая из которых охватывает определённый этап создания программного обеспечения для автономной навигации, обследования акватории, сбора данных и визуализации результатов.
 
 ---
 
-## Demo Video
+## Лабораторные работы
 
-[![Apache4 Robotic Boat Demo](https://img.youtube.com/vi/vwJ0F3qHm7s/0.jpg)](https://www.youtube.com/watch?v=vwJ0F3qHm7s)
-
-**Click the image above to watch the Apache4 robotic boat in action!**
-
----
-
-## Contents
-
-### Laboratory Work No. 1 – Project Plan
-
-**Topic:** Project Plan: Software Development for Autonomous Water Body Scanning Using the Apache4 Robotic Boat
-
-**Objective:** Develop a phased plan for creating software for autonomous water body scanning using the Apache4 robotic boat, including analysis of hardware and onboard systems, design of navigation parameters and water area surveying algorithms, as well as implementation of practical autonomous operation scenarios.
-
-**Contents:**
-- **Stage 1 – Analysis** (Lab No. 2): Study of the Apache4 hardware platform and technical characteristics
-- **Stage 2 – Design** (Lab No. 3): Design of autonomous navigation parameters, movement routes, and water body scanning maps
-- **Stage 3 – Implementation** (Lab No. 4): Implementation of practical autonomous surveying modes, data collection, and visualization of scanning results
+| № | Название | Ссылка |
+|---|---------|--------|
+| 1 | Лабораторная работа №1 – План проекта | [Лаб.1](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961%20%D0%9F%D0%98%D0%A1.docx) |
+| 2 | Лабораторная работа №2 – Анализ аппаратной части | [Лаб.2](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%962%20%D0%9F%D0%98%D0%A1.docx) |
+| 3 | Лабораторная работа №3 – Проектирование навигации | [Лаб.3](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%963%20%D0%9F%D0%98%D0%A1.docx) |
+| 4 | Лабораторная работа №4 – Реализация режимов работы | [Лаб.4](https://github.com/Dimchik29/PISLabs/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%964%20%20%D0%9F%D0%98%D0%A1.docx) |
 
 ---
 
-### Laboratory Work No. 2 – Hardware Analysis
+## Демонстрационное видео
 
-**Topic:** Development of Software for Autonomous Water Body Scanning Using the Apache4 Robotic Boat
+[![Демонстрация работы роботизированного катера Apache4](https://img.youtube.com/vi/vwJ0F3qHm7s/0.jpg)](https://www.youtube.com/watch?v=vwJ0F3qHm7s)
 
-**Objective:** Study the hardware structure, main components, and interfaces of the Apache4 robotic boat, master the initial startup of the onboard control system, software connection, and battery charging methods.
-
-**Key Components Studied:**
-- **Hull and Propulsion System:** Two water-jet motors
-- **Sensors:** SBES echo sounder, ADCP current profiler, 360° camera
-- **Navigation:** GPS/GLONASS module, IMU (gyroscope + accelerometer)
-- **Communication:** Telemetry antenna, radio channel, Wi-Fi module
-- **Interfaces:** USB, Ethernet, sensor connectors, charging port
-- **Controls:** Power button, emergency stop, remote control, software interface
-- **Charging Methods:** Manual charging, removable battery, optional docking station
+**Нажмите на изображение, чтобы посмотреть видео работы Apache4!**
 
 ---
 
-### Laboratory Work No. 3 – Navigation Design
+## Содержание лабораторных работ
 
-**Topic:** Design of Autonomous Navigation Parameters and Water Body Scanning Route Maps
+### Лабораторная работа №1 – План проекта
 
-**Objective:** Learn to configure the Apache4 robotic boat, modify its motion parameters and operating modes, and create a water body scanning route map with control points for autonomous surveying.
+**Тема:** План проекта: Разработка ПО для автономного сканирования водоёмов с помощью роботизированного катера Apache4
 
-**Key Tasks:**
-- Interface and telemetry settings
-- Sound and system notification configuration
-- Creating a route map using the Mapping Tool:
-  - Boundary construction
-  - Echo sounder noise filtering
-  - False obstacle removal
-  - Restricted zone and safety boundary setup
-- Waypoint placement:
-  - Base Point (start/return)
-  - Scan Point (measurement points)
-  - Return Point
-  - Obstacle Zone
+**Цель:** Разработать поэтапный план создания программного обеспечения для автономного сканирования водоёмов с использованием роботизированного катера Apache4, включающий анализ аппаратной части и бортовых систем, проектирование параметров навигации и алгоритмов обследования акватории, а также реализацию практических сценариев автономной работы катера.
+
+**Содержание:**
+- **Этап 1 – Анализ** (Лаб. №2): Изучение аппаратной платформы и технических характеристик катера Apache4
+- **Этап 2 – Проектирование** (Лаб. №3): Проектирование параметров автономной навигации, маршрутов движения и карт сканирования водоёма
+- **Этап 3 – Реализация** (Лаб. №4): Реализация практических режимов автономного обследования, сбора данных и визуализации результатов сканирования
 
 ---
 
-### Laboratory Work No. 4 – Implementation
+### Лабораторная работа №2 – Анализ аппаратной части
 
-**Topic:** Implementation of Practical Autonomous Operation Modes of the Apache4 Robotic Boat
+**Тема:** Разработка ПО для автономного сканирования водоёмов с помощью роботизированного катера Apache4
 
-**Objective:** Master the main autonomous operation modes of the Apache4 robotic boat under conditions approximating real-world water surface scenarios.
+**Цель:** Изучить аппаратное устройство, основные компоненты и интерфейсы роботизированного катера Apache4, освоить первоначальный запуск бортовой системы управления, подключение программного обеспечения и способы зарядки аккумуляторного блока.
 
-**Operating Modes Mastered:**
-
-| Mode | Description |
-|------|-------------|
-| **Survey Mode** | Selecting route points, starting mission, pausing/resuming movement |
-| **Area Scan Mode** | Automatic coverage of a specified area using grid or snake pattern |
-| **Obstacle Avoidance Mode** | Real-time obstacle detection and automatic route correction |
-| **Return to Base Mode** | Automatic return to starting point upon mission completion, low battery, or signal loss |
-| **Monitoring Mode** | Patrol movement along a specified route with continuous telemetry collection |
-
----
-
-## Practical Skills Acquired
-
-- Hardware analysis and component identification of autonomous surface vehicles
-- Configuration of navigation parameters and movement routes
-- Creation of bathymetric maps and obstacle mapping
-- Autonomous mission planning and execution
-- Real-time telemetry monitoring and data logging
-- Obstacle detection and avoidance algorithms
-- Remote system shutdown and safe power-off procedures
+**Изученные основные компоненты:**
+- **Корпус и двигательная установка:** Два водомётных двигателя
+- **Датчики:** Эхолот SBES, измеритель течений ADCP, камера 360°
+- **Навигация:** GPS/ГЛОНАСС модуль, IMU (гироскоп + акселерометр)
+- **Связь:** Телеметрическая антенна, радиоканал, Wi-Fi модуль
+- **Интерфейсы:** USB, Ethernet, разъёмы датчиков, зарядный порт
+- **Органы управления:** Кнопка включения, аварийная остановка, пульт ДУ, программный интерфейс
+- **Способы зарядки:** Ручная зарядка, съёмный аккумулятор, опциональная док-станция
 
 ---
 
+### Лабораторная работа №3 – Проектирование навигации
+
+**Тема:** Проектирование параметров автономной навигации и карт маршрутов сканирования водоёма
+
+**Цель:** Научиться настраивать роботизированный катер Apache4, изменять параметры его движения и режимы работы, а также создавать карту маршрута сканирования водоёма с контрольными точками для автономного обследования.
+
+**Основные задачи:**
+- Настройка интерфейса и телеметрии
+- Настройка звуковых и системных уведомлений
+- Создание карты маршрута с помощью модуля Mapping Tool:
+  - Построение границ водоёма
+  - Фильтрация шумов эхолота
+  - Удаление ложных препятствий
+  - Установка запретных зон и безопасных границ движения
+- Расстановка ключевых точек:
+  - Base Point – стартовая/базовая точка
+  - Scan Point – точки измерения и сканирования
+  - Return Point – точка возврата
+  - Obstacle Zone – зоны препятствий
 
 ---
 
-## Conclusion
+### Лабораторная работа №4 – Реализация режимов работы
 
-As a result of these laboratory works, a comprehensive **phased plan for developing software for autonomous water body scanning using the Apache4 robotic boat** was created. The plan encompasses:
+**Тема:** Реализация практических режимов автономной работы роботизированного катера Apache4
 
-1. **Hardware platform and onboard systems analysis** – studying the Apache4's external structure, main components, sensors, interfaces, and power systems
+**Цель:** Освоить на практике основные режимы автономной работы роботизированного катера Apache4 в условиях, приближённых к реальным сценариям эксплуатации на водной поверхности.
 
-2. **Design of autonomous navigation parameters and route maps** – configuring motion parameters, operator interface, notification systems, and creating scanning route maps with various waypoint types
+**Освоенные режимы работы:**
 
-3. **Implementation of practical autonomous operation scenarios** – mastering five key operational modes for water area surveying, data collection, and result visualization
-
-The Apache4 robotic boat proved to be an effective tool for engineering, research, and environmental tasks requiring high-precision navigation, hydrographic data collection, and real-time monitoring of water areas.
+| Режим | Описание |
+|-------|----------|
+| **Survey Mode (Режим обследования)** | Выбор точек маршрута, запуск миссии, приостановка и возобновление движения |
+| **Area Scan Mode (Режим сканирования области)** | Автоматическое покрытие заданной области водоёма по сеточному или змейковому маршруту |
+| **Obstacle Avoidance Mode (Режим обхода препятствий)** | Обнаружение препятствий на воде и автоматическая корректировка маршрута в реальном времени |
+| **Return to Base Mode (Режим возврата на базу)** | Автоматический возврат катера в стартовую точку после завершения миссии, при низком заряде или потере связи |
+| **Monitoring Mode (Режим мониторинга)** | Патрульное движение по заданному маршруту с непрерывным сбором телеметрии |
 
 ---
 
-**Brest 2026**
+## Приобретённые практические навыки
+
+- Анализ аппаратной части и идентификация компонентов автономных надводных аппаратов
+- Настройка параметров навигации и маршрутов движения
+- Создание карт глубин и карт препятствий
+- Планирование и выполнение автономных миссий
+- Мониторинг телеметрии в реальном времени и запись данных
+- Алгоритмы обнаружения и обхода препятствий
+- Дистанционное отключение системы и безопасное завершение работы
+
+
+---
+
+## Вывод
+
+В результате выполнения данных лабораторных работ был разработан комплексный **поэтапный план создания программного обеспечения для автономного сканирования водоёмов с помощью роботизированного катера Apache4**. План охватывает:
+
+1. **Анализ аппаратной платформы и бортовых систем** – изучение внешнего устройства, основных компонентов, датчиков, интерфейсов и системы питания катера Apache4
+
+2. **Проектирование параметров автономной навигации и карт маршрутов** – настройка параметров движения, интерфейса оператора, системы уведомлений и создание карт сканирования с различными типами ключевых точек
+
+3. **Реализацию практических сценариев автономной работы** – освоение пяти ключевых режимов работы для обследования акватории, сбора данных и визуализации результатов сканирования
+
+Роботизированный катер Apache4 показал себя как эффективный инструмент для решения инженерных, исследовательских и экологических задач, требующих высокоточного позиционирования, сбора гидрографических данных и мониторинга параметров акватории в реальном времени.
+
+---
+
+**Брест 2026**
